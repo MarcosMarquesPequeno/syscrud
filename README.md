@@ -108,4 +108,4 @@ Se você quiser contribuir com o projeto, por favor, siga as etapas abaixo:
 ## Licença
 
 Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
->>>>>>> 10190b2 (system 25.3.25)
+
